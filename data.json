@@ -1,0 +1,38 @@
+[
+    {
+        "name" : "Foccacia",
+        "ingredients" : [
+            {
+                "amount": "7g",
+                "product": "Trockenhefe"
+            },
+            {
+                "amount": "eine Prise",
+                "product": "Salz"
+            },
+            {
+                "amount": "1 EL",
+                "product": "Olivenöl"
+            },
+            {
+                "amount": "410ml",
+                "product": "Wasser"
+            },
+            {
+                "amount": "500g",
+                "product": "Mehl"
+            }
+        ],
+        "preparation" : [
+            "alle Zutaten mischen",
+            "1/2h stehen lassen",
+            "4x 4 mal falten und 1/2h zugedeckt stehen lassen",
+            "evtl. über Nacht zugedeckt in Kühlschrank",
+            "Auflaufform ölen und Teil hineinfüllen. Löcher mit den Fingern eindrücken und würzen",
+            "20min bei 200° mit Umluft backen"
+        ],
+        "image" : "focaccia-no-knead-1156x1536.jpg",
+        "url" : "https://www.youtube.com/watch?v=O1WQTKuWWfM&t=79s",
+        "notes" : ""
+    }
+]
