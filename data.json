@@ -1,6 +1,71 @@
 [
     {
+        "name" : "Palak Paneer",
+        "numberOfPersons": 2,
+        "minutesToPrepare": 30,
+        "ingredients" : [
+            {
+                "amount": "250g",
+                "product": "frischer Spinat, gehackt"
+            },
+            {
+                "amount": "1/2",
+                "product": "Chilli"
+            },
+            {
+                "amount": "1/2 TL",
+                "product": "Ingwer, fein gehackt"
+            },
+            {
+                "amount": "1 Prise",
+                "product": "Bockshornkleesamen"
+            },
+            {
+                "amount": "1",
+                "product": "Zwiebel"
+            },
+            {
+                "amount": "1",
+                "product": "Knoblauch"
+            },
+            {
+                "amount": "1/4 TL",
+                "product": "Kreuzkümmel"
+            },
+            {
+                "amount": "1 TL",
+                "product": "Garam Masala"
+            },
+            {
+                "amount": "250g",
+                "product": "Tomaten, gehackt"
+            },
+            {
+                "amount": "100g",
+                "product": "Paneer, gewürfelt"
+            },
+            {
+                "amount": "240g",
+                "product": "Reis"
+            }
+        ],
+        "preparation" : [
+            "Reis kochen",
+            "Spinat, Chilli, Ingwer erwärmen, zusammenfallen lassen und pürieren",
+            "Bockshornkleesamen 30s anbräunen",
+            "Zwiebel und Knoblauch zugeben und andünsten",
+            "Gewürze und Tomaten zugeben und 5min kochen",
+            "Pürierter Spinat und Paneer dazugeben",
+            "Evtl. mit Zitronensaft oder Jogurt ergänzen"
+        ],
+        "image" : "palak_paneer.jpg",
+        "url" : "https://drive.google.com/file/d/1aV350xFkJQCQCxh4pHuGM7sDrbMnmPxb/view?usp=sharing",
+        "notes" : ""
+    },
+    {
         "name" : "Foccacia",
+        "numberOfPersons": 4,
+        "minutesToPrepare": 180,
         "ingredients" : [
             {
                 "amount": "7g",
@@ -34,5 +99,16 @@
         "image" : "focaccia-no-knead-1156x1536.jpg",
         "url" : "https://www.youtube.com/watch?v=O1WQTKuWWfM&t=79s",
         "notes" : ""
+    },
+    {
+        "name": "Riz Casimier",
+        "numberOfPersons": 2,
+        "minutesToPrepare": 40,
+        "ingredients": [
+            {
+                "amount": "240g",
+                "product": "Reis"
+            }
+        ]
     }
 ]
