@@ -243,5 +243,115 @@
         "image": "sachertorte.jpg",
         "url": "https://www.ichkoche.at/sachertorte-rezept-100",
         "notes": "Sachertorte nach Möglichkeit nicht im Kühlschrank lagern, da sie sonst „schwitzt“."       
+    },
+    {
+        "name": "Linsen Curry",
+        "numberOfPersons": 4,
+        "minutesToPrepare": 30,
+        "ingredients": [
+            {
+                "amount": "480g",
+                "product": "Basmatireis"
+            }
+            {
+                "amount": "1 EL",
+                "product": "Kokosöl"
+            },
+            {
+                "amount": "1 TL",
+                "product": "Kreuzkümmel"
+            },
+            {
+                "amount": "1 TL",
+                "product": "Kardamomkapsel"
+            },
+            {
+                "amount": "1 EL",
+                "product": "Garam Masala"
+            },
+            {
+                "amount": "1 TL",
+                "product": "gemahlene Koriandersamen"
+            },
+            {
+                "amount": "1 TL",
+                "product": "Kurkuma"
+            },
+            {
+                "amount": "1 TL",
+                "product": "Ingwer, fein gerieben"
+            },
+            {
+                "amount": "2",
+                "product": "Knoblauchzehen, fein gehackt"
+            },
+            {
+                "amount": "1",
+                "product": "Zwiebel, fein gehackt"
+            },
+            {
+                "amount": "1 EL",
+                "product": "Tomatenmark"
+            },
+            {
+                "amount": "2",
+                "product": "Lorbeerblätter"
+            },
+            {
+                "amount": "2",
+                "product": "Karotten, gewürfelt"
+            },
+            {
+                "amount": "200g",
+                "product": "festkochende Kartoffeln, gewürfelt"
+            },
+            {
+                "amount": "100g",
+                "product": "rote Linsen"
+            },
+            {
+                "amount": "400g",
+                "product": "Tomaten, gehackt"
+            },
+            {
+                "amount": "1/2",
+                "product": "Zitrone, nur den Saft"
+            },
+            {
+                "amount": "3 dl",
+                "product": "Wasser"
+            },
+            {
+                "amount": "100g",
+                "product": "Baby-Spinat"
+            },
+            {
+                "amount": "3 EL",
+                "product": "Kokosmilch"
+            },
+            {
+                "amount": "1 1/2 TL",
+                "product": "Salz"
+            },
+            {
+                "amount": "zum Garnieren",
+                "product": "Kokosmilch"
+            },
+            {
+                "amount": "1/2 Bund",
+                "product": "Koriander, grob gehackt"
+            }
+        ],
+        "preparation": [
+            "Kokosöl in einer Pfanne erhitzen, Kreuzkümmel und Kardamom anrösten, bis das Aroma freigesetzt wird",
+            "Garam Masala, Koriander, Kurkuma, Ingwer, Knoblauch und Zwiebel beigeben, ca. 3 Min. andünsten",
+            "Tomatenmark, Lorbeerblätter, Karotten und Kartoffeln beigeben, kurz anbraten",
+            "Linsen und Tomaten beigeben, Zitronensaft und Wasser dazugiessen, aufkochen, Hitze reduzieren, zudecken und ca. 20 Min. köcheln",
+            "Spinat beigeben, weitere 5 Min. köcheln",
+            "Kokosmilch unterrühren, mit Salz abschmecken"
+        ],
+        "image": "linsen-curry.jpg",
+        "url": "https://fooby.ch/en/recipes/17604/lentil-curry",
+        "notes": ""
     }
 ]
