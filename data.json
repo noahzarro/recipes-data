@@ -108,7 +108,60 @@
             {
                 "amount": "240g",
                 "product": "Reis"
+            },
+            {
+                "amount": "1/2 TL",
+                "product": "Salz"
+            },
+            {
+                "amount": "1 EL",
+                "product": "Butter"
+            },
+            {
+                "amount": "1 EL",
+                "product": "Curry"
+            },
+            {
+                "amount": "1 EL",
+                "product": "Mehl"
+            },
+            {
+                "amount": "4 dl",
+                "product": "Wasser"
+            },
+            {
+                "amount": "1 EL",
+                "product": "Kokosraspel"
+            },
+            {
+                "amount": "1",
+                "product": "Apfel"
+            },
+            {
+                "amount": "1 EL",
+                "product": "Weinbeeren"
+            },
+            {
+                "amount": "1",
+                "product": "Tofuwüfel"
+            },
+            {
+                "amount": "1",
+                "product": "Banane"
             }
-        ]
+        ],
+        "preparation": [
+            "Reis kochen",
+            "Butter schmelzen",
+            "Curry und Mehl hinzufügen",
+            "Wasser hinzufügen und 1 EL Kokosraspel",
+            "Apfel und Weinbeeren hinzufügen",
+            "Tofuwüfel 1h in Sojasaue marinieren ohne Salz",
+            "Tofuwüfel anbraten",
+            "Banane in Butter braten"
+        ],
+        "image": "riz-casimir.jpg",
+        "url": "https://docs.google.com/document/d/0B858_TpGStzPT2RpY0V3bXpTZG8/edit?usp=sharing&ouid=117684296261368439127&resourcekey=0-EeGHbFJ_vyDjyATsQ4Nv3w&rtpof=true&sd=true",
+        "notes": ""
     }
 ]
