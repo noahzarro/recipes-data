@@ -20,7 +20,7 @@
     "recipes": [
         {
             "name": "Palak Paneer",
-            "tag": "mainMeal",
+            "tags": ["mainMeal"],
             "numberOfPersons": 2,
             "minutesToPrepare": 30,
             "ingredients": [
@@ -84,7 +84,7 @@
         },
         {
             "name": "Foccacia",
-            "tag": "mainMeal",
+            "tags": ["mainMeal"],
             "numberOfPersons": 4,
             "minutesToPrepare": 180,
             "ingredients": [
@@ -123,7 +123,7 @@
         },
         {
             "name": "Riz Casimier",
-            "tag": "mainMeal",
+            "tags": ["mainMeal"],
             "numberOfPersons": 2,
             "minutesToPrepare": 40,
             "ingredients": [
@@ -188,7 +188,7 @@
         },
         {
             "name": "Sachertorte",
-            "tag": "dessert",
+            "tags": ["dessert"],
             "numberOfPersons": 12,
             "minutesToPrepare": 60,
             "ingredients": [
@@ -269,7 +269,7 @@
         },
         {
             "name": "Linsen Curry",
-            "tag": "mainMeal",
+            "tags": ["mainMeal"],
             "numberOfPersons": 4,
             "minutesToPrepare": 30,
             "ingredients": [
