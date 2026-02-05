@@ -509,6 +509,45 @@
             "image": "butterbohnen-curry.jpg",
             "url": "https://www.instagram.com/reel/C-IYPraKS4l/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
             "notes": "Koriander kann mit glatter Petersilie ersetzt werden, falls nicht verfügbar."
+        },
+        {
+            "name": "Baguette",
+            "tags": [
+                "mainMeal"
+            ],
+            "numberOfPersons": 4,
+            "minutesToPrepare": 10,
+            "ingredients": [
+                {
+                    "amount": "500g",
+                    "product": "Mehl"
+                },
+                {
+                    "amount": "1g",
+                    "product": "Trockenhefe"
+                },
+                {
+                    "amount": "1 TL",
+                    "product": "Salz"
+                },
+                {
+                    "amount": "375ml",
+                    "product": "Wasser, lauwarm"
+                }
+            ],
+            "preparation": [
+                "Mehl, Hefe und Salz in einer Schüssel vermischen",
+                "Lauwarmes Wasser hinzufügen und zu einem klebrigen Teig verrühren",
+                "Teig abdecken und an einem warmen Ort 8 Stunden gehen lassen",
+                "Teig auf eine bemehlte Fläche geben, in 2 gleich große Stücke teilen und zu Baguette formen",
+                "Baguettes auf ein mit Backpapier ausgelegtes Backblech legen",
+                "Backofen auf 250°C vorheizen",
+                "Eine Schale mit Wasser auf den Boden des Ofens stellen, oder ein Glas Wasser reinleeren um Dampf zu erzeugen",
+                "Baguettes 25 Minuten backen, bis sie goldbraun sind"
+            ],
+            "image": "baguette.jpg",
+            "url": "https://www.youtube.com/watch?v=Z-husjZkxHw",
+            "notes": "Für eine knusprigere Kruste, während der letzten 10 Minuten Backzeit die Ofentür kurz öffnen, um Dampf entweichen zu lassen."
         }
     ]
 }
