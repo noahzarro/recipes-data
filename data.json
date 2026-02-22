@@ -126,7 +126,7 @@
             "notes": ""
         },
         {
-            "name": "Riz Casimier",
+            "name": "Riz Casimir",
             "tags": [
                 "mainMeal"
             ],
@@ -202,7 +202,7 @@
             "ingredients": [
                 {
                     "amount": "7",
-                    "product": "Eidotter"
+                    "product": "Eigelb"
                 },
                 {
                     "amount": "150g",
@@ -222,7 +222,7 @@
                 },
                 {
                     "amount": "7",
-                    "product": "Eiklar"
+                    "product": "Eiweiss"
                 },
                 {
                     "amount": "125g",
@@ -249,7 +249,7 @@
                     "product": "nach Belieben"
                 },
                 {
-                    "amount": "Schlagobers",
+                    "amount": "Schlagrahm",
                     "product": "für die Garnitur"
                 },
                 {
@@ -258,10 +258,9 @@
                 }
             ],
             "preparation": [
-                "Reis kochen",
                 "Butter mit Staub- und Vanillezucker schaumig rühren",
                 "Dotter nach und nach einrühren",
-                "Eiklar mit einer Prise Salz aufschlagen, Kristallzucker zugeben und zu steifem Schnee schlagen",
+                "Eiweiss mit einer Prise Salz aufschlagen, Kristallzucker zugeben und zu steifem Schnee schlagen",
                 "Geschmolzene Schokolade in die Dottermasse einrühren und den Schnee abwechselnd mit dem Mehl unterziehen",
                 "Teig in die Form füllen und etwa 1 Stunde backen",
                 "Torte herausheben und auskühlen lassen",
@@ -269,7 +268,7 @@
                 "Teigboden mit Marmelade bestreichen, zweite Hälfte daraufsetzen und obenauf sowie rundum mit Marillenmarmelade bestreichen",
                 "Glasur wärmen und über die Torte giessen",
                 "Torte bei Zimmertemperatur trocknen lassen",
-                "Mit geschlagenem Obers garniert servieren"
+                "Mit geschlagenem Rahm garniert servieren"
             ],
             "image": "sachertorte.jpg",
             "url": "https://www.ichkoche.at/sachertorte-rezept-100",
