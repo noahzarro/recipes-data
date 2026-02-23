@@ -198,7 +198,7 @@
                 "dessert"
             ],
             "numberOfPersons": 12,
-            "minutesToPrepare": 60,
+            "minutesToPrepare": 120,
             "ingredients": [
                 {
                     "amount": "7",
@@ -253,16 +253,16 @@
                     "product": "für die Garnitur"
                 },
                 {
-                    "amount": "1 Packung",
+                    "amount": "2 Packungen",
                     "product": "Kuchenglasur"
                 }
             ],
             "preparation": [
                 "Butter mit Puder- und Vanillezucker schaumig rühren",
-                "Dotter nach und nach einrühren",
+                "Eigelb nach und nach einrühren",
                 "Eiweiss mit einer Prise Salz aufschlagen, Kristallzucker zugeben und zu steifem Schnee schlagen",
-                "Geschmolzene Schokolade in die Dottermasse einrühren und den Schnee abwechselnd mit dem Mehl unterziehen",
-                "Teig in die Form füllen und etwa 1 Stunde backen",
+                "Geschmolzene Schokolade in die Eigelbmasse einrühren und den Schnee abwechselnd mit dem Mehl unterziehen",
+                "Teig in die Form füllen und etwa 1 Stunde bei 180°C backen",
                 "Torte herausheben und auskühlen lassen",
                 "Torte der Quere nach einmal durchschneiden",
                 "Teigboden mit Marmelade bestreichen, zweite Hälfte daraufsetzen und obenauf sowie rundum mit Marillenmarmelade bestreichen",
